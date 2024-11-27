@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+div {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid blue;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    font-size: 28px;
+    color: #990000;
+}
+
+p {
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 20px;
+}

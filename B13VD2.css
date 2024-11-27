@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #363636;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.title,
+.subtitle {
+    color: #c02c2c;
+}
+
+.title {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.subtitle {
+    margin: 10px 0 5px;
+}
+
+a{
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin: 10px 0;
+}
